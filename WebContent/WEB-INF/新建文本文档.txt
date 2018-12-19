@@ -1,0 +1,1 @@
+<Context docBase="xmglxt" path="/xmglxt" reloadable="true" source="org.eclipse.jst.jee.server:webProject"/>
